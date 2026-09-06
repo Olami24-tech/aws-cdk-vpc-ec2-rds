@@ -71,3 +71,6 @@ Future Improvements
 •	Store database credentials using AWS Secrets Manager rotation. 
 •	Add GitHub Actions for automated CDK deployment.
 
+## 👤 Author
+
+Yusuf Olamilekan Oyedele
