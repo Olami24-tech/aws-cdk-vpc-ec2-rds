@@ -44,15 +44,45 @@ tsconfig.json
 ________________________________________
 Deployment
 Install dependencies
+## Prerequisites
+
+- Node.js 22 LTS
+- AWS CLI
+- AWS CDK v2
+- TypeScript
+
+## Installation
+
+```bash
+git clone https://github.com/Olami24-tech/aws-cdk-vpc-ec2-rds.git
+cd aws-cdk-vpc-ec2-rds
+
 npm install
-Build
-npm run build
-Synthesize
+```
+
+## Bootstrap CDK
+
+```bash
+cdk bootstrap
+```
+
+## Synthesize
+
+```bash
 cdk synth
-Deploy
+```
+
+## Deploy
+
+```bash
 cdk deploy --all
-Destroy
+```
+
+## Destroy
+
+```bash
 cdk destroy --all
+```
 ________________________________________
 
 Lessons Learned
