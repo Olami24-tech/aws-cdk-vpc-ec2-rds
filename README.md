@@ -84,6 +84,12 @@ cdk deploy --all
 cdk destroy --all
 ```
 ________________________________________
+<img width="1911" height="290" alt="rds " src="https://github.com/user-attachments/assets/0845c580-2874-4cfb-94b4-5f059bd37a0e" />
+<img width="1882" height="885" alt="cdk vpc " src="https://github.com/user-attachments/assets/43a79d99-7fbb-4768-ab03-3ffa388d1ff5" />
+<img width="1881" height="831" alt="Cdk stack ec2" src="https://github.com/user-attachments/assets/e83f5d6c-dfa5-4a63-a599-5d9eadf4d433" />
+<img width="992" height="577" alt="deploy cdk-ec2-vpc-rds" src="https://github.com/user-attachments/assets/eed3c99f-4768-4938-86c3-844f2d1ef29f" />
+
+<img width="1882" height="531" alt="cdk-vpc-ec2-rds" src="https://github.com/user-attachments/assets/64e063e5-3b39-4464-a0cd-fd6ac80c4774" />
 
 Lessons Learned
 During this project I learned how to:
